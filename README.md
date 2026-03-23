@@ -1,2 +1,3 @@
 # video_anonymization
-Video Anonymization
+Privacy preserving action recognition with video anonymization.
+Model code has been added for the anonymization of the private attributes token.
